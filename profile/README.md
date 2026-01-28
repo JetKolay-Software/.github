@@ -7,15 +7,14 @@
     <strong>E-İmza, Mali Mühür, E-Fatura ve Kurumsal Yazılım Çözümleri</strong>
   </p>
 
-  <a href="https://jetkolay.com">🌐 Web Sitesi</a> •
-  <a href="mailto:info@jetkolay.com">📧 İletişim</a> •
-  <a href="https://jetkolay.com/blog">📝 Blog</a>
-  <a href="http://176.53.46.15:8000/api/v1/docs">Fast APİ</a>
-
-
-  <br><br>
 </div>
 
+| 🏷️ Servis | 🔗 Bağlantı |
+| :--- | :--- |
+| 🌐 **Web Sitesi** | [jetkolay.com](https://jetkolay.com) |
+| 📧 **İletişim** | [info@jetkolay.com](mailto:info@jetkolay.com) |
+| 📝 **Blog** | [jetkolay.com/blog](https://jetkolay.com/blog) |
+| ⚡ **FastAPI Docs** | [API Dokümantasyonu](http://176.53.46.15:8000/api/v1/docs) |
 ---
 
 ### 👋 Biz Kimiz?
