@@ -10,6 +10,8 @@
   <a href="https://jetkolay.com">🌐 Web Sitesi</a> •
   <a href="mailto:info@jetkolay.com">📧 İletişim</a> •
   <a href="https://jetkolay.com/blog">📝 Blog</a>
+  <a href="http://176.53.46.15:8000/api/v1/docs">Fast APİ</a>
+
 
   <br><br>
 </div>
