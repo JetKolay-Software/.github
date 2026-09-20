@@ -14,7 +14,6 @@
 | 🌐 **Web Sitesi** | [jetkolay.com](https://jetkolay.com) |
 | 📧 **İletişim** | [info@jetkolay.com](mailto:info@jetkolay.com) |
 | 📝 **Blog** | [jetkolay.com/blog](https://jetkolay.com/blog) |
-| ⚡ **FastAPI Docs** | [API Dokümantasyonu](http://176.53.46.15:8000/api/v1/docs) |
 ---
 
 ### 👋 Biz Kimiz?
