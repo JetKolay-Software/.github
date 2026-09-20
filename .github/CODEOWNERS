@@ -1,0 +1,12 @@
+# .github — Kod sahipleri (CODEOWNERS)
+# Takım modeli: 2026-09-20 · Sahip takım: altyapi-operasyon
+# Kaynak: Dragon memory/projects/jetkolay-offboarding/AJANDA.md (madde G20)
+#
+# Onay kuralı: aşağıdaki sahiplerden HERHANGİ BİRİNİN onayı yeterlidir.
+# Sıralama önemli — SON eşleşen kural geçerlidir.
+
+*                          @JetKolay-Software/altyapi-operasyon
+
+# CI/CD ve kod sahipliği dosyaları — yalnız org sahibi
+/.github/workflows/        @yasinsahin0
+/.github/CODEOWNERS        @yasinsahin0
