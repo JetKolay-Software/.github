@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://jetkolay.com"><img src="https://www.jetkolay.com/assets/icon_logo.png" alt="JetKolay" width="140"/></a>
+  <a href="https://jetkolay.com"><img src="https://raw.githubusercontent.com/JetKolay-Software/.github/main/assets/logo.png" alt="JetKolay Software" width="160"/></a>
 
   <h1>JetKolay Yazılım</h1>
 
